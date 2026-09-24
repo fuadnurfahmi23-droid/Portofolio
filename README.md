@@ -28,4 +28,4 @@ yang telah dibuat.
 ## Live Demo
 
 Link website:
-https://link-website-kamu.netlify.app
+https://fuadnurfahmi23-droid.github.io/Portofolio/
